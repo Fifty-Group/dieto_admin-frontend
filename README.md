@@ -1,6 +1,6 @@
-# Fund app (fund-admin)
+# Dieto admin (dieto-admin)
 
-fund admin
+dieto admin
 
 ## Install the dependencies
 
